@@ -75,7 +75,7 @@ See `DEPLOYMENT.md` for detailed deployment instructions.
 - [x] Notes system
 - [x] Dashboard with analytics
 - [x] Responsive design
-- [ ] Dark mode (optional)
+- [ ] Dark mode
 
 ## License
 
